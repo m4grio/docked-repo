@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="ssh://git@github.com/m4grio/" />
+    <default revision="master" remote="origin"/>
+    <project path="manifest/repo" name="docked-repo"/>
+    <project path="beego" name="beego-docker"/>
+    <project path="k6" name="k6-docker"/>
+    <project path="flask" name="flask-docker"/>
+    <project path="elixir" name="elixir-docker"/>
+    <project path="erlang" name="erlang-docker"/>
+    <project path="jupyter" name="jupyter-docker"/>
+    <project path="enduro" name="enduro-docker"/>
+</manifest>
+
+

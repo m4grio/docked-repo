@@ -10,6 +10,7 @@
     <project path="erlang" name="erlang-docker"/>
     <project path="jupyter" name="jupyter-docker"/>
     <project path="enduro" name="enduro-docker"/>
+    <project path="jekyll" name="jekyll-docker" />
 </manifest>
 
 
